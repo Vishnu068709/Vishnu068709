@@ -25,10 +25,10 @@
 
 ### :man_technologist: About Me :
 I am a cloud solution architecture <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Im a student
-- :seedling: Exploring Technical Content Writing.
+- :telescope: IT professionals
+- :seedling: Exploring Technical Engineering
 
-- :zap: In my free time, I solve read tech articles and try to make some codes.
+- :zap: In my free time, I solve read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vijayan-0a0334258)
 ---
