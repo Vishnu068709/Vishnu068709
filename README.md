@@ -26,7 +26,7 @@
 ### :man_technologist: About Me :
 I am a cloud solution architecture <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: IT professionals
-- :seedling: Exploring Technical Engineering
+- :seedling: Exploring new things
 
 - :zap: In my free time, I solve read tech articles.
 
