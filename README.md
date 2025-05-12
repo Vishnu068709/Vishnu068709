@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/vishnu-vijayan-0a0334258">
+  <a href="www.linkedin.com/in/vishnu-v-n">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/__rivaldo_richard____?igshid=YmMyMTA2M2Y=">
