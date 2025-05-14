@@ -16,7 +16,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1tQxZhMX9ZJ84t85IoNS45haOq4DfsIcI" width="600" height="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1tQxZhMX9ZJ84t85IoNS45haOq4DfsIcI" width="900" height="400"/>
 </div>
 ---
 
