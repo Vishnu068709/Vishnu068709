@@ -8,6 +8,9 @@
   <a href="https://www.instagram.com/vishnu.v_n/?hl=en">
     <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
+  <a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="https://img.shields.io/badge/Credly-lightblue?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
+</a>
 </div>
 <img src="https://vishnu.com/ghpvc/?username=Vishnu068709&style=flat-square&color=blue" alt=""/>
 <h1>
