@@ -21,14 +21,16 @@
 ---
 
 ### :man_technologist: About Me :
-I am a cloud solution architecture <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: IT professionals
-- :seedling: Exploring new things
+🌍 Cloud Solutions Architect based in India, passionate about building scalable, secure, and cost-efficient cloud infrastructure.
+🚀 IT Professional with hands-on experience in AWS, GCP, Azure, DevOps, and automation tools.
 
-- :zap: In my free time, I solve read tech articles.
+🧠 Lifelong Learner — always exploring emerging technologies, cloud-native architectures, and best practices.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vijayan-0a0334258)
----
+🛠️ Problem Solver who enjoys optimizing systems and boosting developer productivity through automation.
+
+📖 In my downtime, I enjoy reading tech blogs, contributing to open-source, and experimenting with new tools.
+
+📫 Let's Connect: Vishnuvijayan6865@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
