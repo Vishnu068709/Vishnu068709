@@ -5,11 +5,8 @@
   <a href="www.linkedin.com/in/vishnu-v-n">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/__rivaldo_richard____?igshid=YmMyMTA2M2Y=">
+  <a href="https://www.instagram.com/vishnu.v_n/?hl=en">
     <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/Vishnu_VN_?s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img src="https://vishnu.com/ghpvc/?username=Vishnu068709&style=flat-square&color=blue" alt=""/>
