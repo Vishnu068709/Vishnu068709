@@ -64,4 +64,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vishnu068709&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
