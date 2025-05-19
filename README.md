@@ -61,9 +61,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vishnu068709&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vishnu068709&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709&layout=compact&theme=vision-friendly-dark)](https://github.com/Vishnu068709/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vishnu068709&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vishnu068709&icon=0&color=0)](https://visitcount.itsvg.in)
