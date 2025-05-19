@@ -59,9 +59,9 @@
 ---
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vishnu068709&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vishnu068709&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vishnu068709&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vishnu068709&limit=5&theme=dark&combine_all_yearly_contributions=true)
